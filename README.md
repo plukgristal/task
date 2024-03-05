@@ -1,1 +1,1 @@
-Adding a .gitignore file to the project root
+Adding .gitignore file to the project root
